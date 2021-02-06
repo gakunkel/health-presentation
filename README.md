@@ -21,6 +21,8 @@ Tobacco use percentage refers to the proportion of a population (15+ yrs) that u
 Alcohol Consumption per Capita
 Average alcohol consumption (liters of pure alcohol) consumed per person in a nation
 
+-------------------------------------------------------------------------------------
+
 Trends
 
 Data for male and female tobacco and alcohol consumption presented significant discrepencies in correlation to probability of death due to these lifestyle diseases. This suggests to us that there are likely many other factors contributing to probability of death such as healthcare access and quality.
